@@ -1,2 +1,3 @@
-# Review-for-FIN
-Review of Python for Financial Analysis and Algorithmic Trading
+# Python for Financail Analysis and Algotithmic Trading from Udemy
+Review
+All sample codes and sources are from the course. 
